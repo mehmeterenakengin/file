@@ -1,0 +1,494 @@
+[
+    {
+        "event_type": "created",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:30:09"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 06:30:09"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:30:09"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:30:09"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:30:09"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 06:30:09"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:37:35"
+    },
+    {
+        "event_type": "closed_no_write",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:37:35"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:58:21"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:58:21"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:58:21"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 06:58:21"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:58:33"
+    },
+    {
+        "event_type": "closed_no_write",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:58:33"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:59:01"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:59:01"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:59:01"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 06:59:01"
+    },
+    {
+        "event_type": "created",
+        "file_path": "/home/kali/bsm/test/mehmet.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:59:04"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 06:59:04"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/mehmet.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:59:04"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/mehmet.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:59:04"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/mehmet.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:59:04"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 06:59:04"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/mehmet.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:59:10"
+    },
+    {
+        "event_type": "closed_no_write",
+        "file_path": "/home/kali/bsm/test/mehmet.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 06:59:10"
+    },
+    {
+        "event_type": "created",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:29:09"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 07:29:09"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:29:09"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:29:09"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:29:09"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 07:29:09"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:29:20"
+    },
+    {
+        "event_type": "closed_no_write",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:29:20"
+    },
+    {
+        "event_type": "deleted",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:30:44"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 07:30:44"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:33:43"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:33:43"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:33:43"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 07:33:43"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:34:00"
+    },
+    {
+        "event_type": "closed_no_write",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:34:00"
+    },
+    {
+        "event_type": "created",
+        "file_path": "/home/kali/bsm/test/bsm.text",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/bsm.text",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/bsm.text",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/bsm.text",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "created",
+        "file_path": "/home/kali/bsm/test/bsm.text",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/bsm.text",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/bsm.text",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/bsm.text",
+        "is_directory": false,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 07:41:58"
+    },
+    {
+        "event_type": "deleted",
+        "file_path": "/home/kali/bsm/test/bsm.text",
+        "is_directory": false,
+        "timestamp": "2024-12-22 08:10:59"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 08:10:59"
+    },
+    {
+        "event_type": "deleted",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 08:11:02"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 08:11:02"
+    },
+    {
+        "event_type": "deleted",
+        "file_path": "/home/kali/bsm/test/mehmet.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 08:11:03"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 08:11:03"
+    },
+    {
+        "event_type": "created",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "created",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 10:25:30"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:27:30"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:27:30"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:27:30"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:27:30"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:27:30"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:27:30"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "is_directory": true,
+        "timestamp": "2024-12-22 10:27:30"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:28:25"
+    }
+]    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:28:25"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/odev.txt",
+        "is_directory": false,
+        "timestamp": "2024-12-22 10:28:25"
+    }
+]
